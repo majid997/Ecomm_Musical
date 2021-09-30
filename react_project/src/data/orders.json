@@ -1,0 +1,9 @@
+[
+    {"id": 12,"customer": "Henry","orderdate": "12/8/2020","amount":10000,"status": "approved"},
+    {"id": 13,"customer": "Alex","orderdate": "14/7/2020","amount":15000,"status": "processed"},
+    {"id": 14,"customer": "Jimmy","orderdate": "12/8/2020","amount":20000,"status": "processed"},
+    {"id": 15,"customer": "Max","orderdate": "12/8/2020","amount":2500,"status": "cancelled"},
+    {"id": 16,"customer": "David","orderdate": "1/8/2020","amount":8000,"status": "approved"},
+    {"id": 17,"customer": "Jack","orderdate": "12/3/2021","amount":10000,"status": "rejected"},
+    {"id": 18,"customer": "Sam","orderdate": "6/4/2021","amount":30000,"status": "inprogess"}
+]

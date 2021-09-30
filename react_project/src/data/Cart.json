@@ -1,0 +1,7 @@
+[
+    {"id": 12,"title": "Headphones","description": "Studio monitoring","imageurl":"/images/audiotechnica.jpg","unitprice": 10000,"quantity":10,"likes":56000},
+    {"id": 13,"title": "Studio Monitors","imageurl":"/images/krk.jpg","description": "Krk Rokit","unitprice":30000,"quantity":15,"likes":87000},
+    {"id": 14,"title": "Studio Monitors","imageurl":"/images/yamaha.jpg","description": "Yamaha","unitprice": 31000,"quantity":20,"likes":45500},
+    {"id": 15,"title": "Audio interface","imageurl":"","description": "Usb interface","unitprice": 12000,"quantity":30,"likes":64000},
+    {"id": 16,"title": "Keyboard","imageurl":".jpg","description": "Digital","unitprice":35000,"quantity":40,"likes":60000}
+]

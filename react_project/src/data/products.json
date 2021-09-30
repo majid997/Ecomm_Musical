@@ -1,0 +1,12 @@
+[
+    {"id": 12,"title": "Headphones","description": "Studio monitoring","imageurl":"/images/audiotechnica.jpg","unitprice": 10000,"quantity":200,"likes":56000},
+    {"id": 13,"title": "Studio Monitors","imageurl":"/images/krk.jpg","description": "Krk Rokit","unitprice":30000,"quantity":250,"likes":87000},
+    {"id": 14,"title": "Studio Monitors","imageurl":"/images/yamaha.jpg","description": "Yamaha","unitprice": 31000,"quantity":300,"likes":45500},
+    {"id": 15,"title": "Audio interface","imageurl":"/images/audiointerface.jpg","description": "Usb interface","unitprice": 12000,"quantity":400,"likes":64000},
+    {"id": 16,"title": "Keyboard","imageurl":"/images/yamaha-keyboard.jpg","description": "Digital","unitprice":35000,"quantity":850,"likes":60000},
+    {"id": 17,"title": "Drums and percussion","imageurl":"/images/drums.jpg","description": "All types","unitprice": 25000,"quantity":350,"likes":7660},
+    {"id": 18,"title": "Guitar","imageurl":"/images/guitar.jpg","description": "Electric","unitprice":30000,"quantity":400,"likes":76000},
+    {"id": 19,"title": "Microphone","imageurl":"/images/microphone.jpg","description": "Rode","unitprice": 10,"quantity":35000,"likes":76000},
+    {"id": 21,"title": "Saxophone","imageurl":"/images/saxophone.jpg","description": "Havana alto","unitprice": 56,"quantity":500,"likes":76000}
+    
+]
